@@ -1,0 +1,18 @@
+16
+U OR V OR X OR Y
+T OR U OR X OR Y
+T OR V OR X OR Y
+T OR U OR V OR X
+T OR U OR V OR Y
+-V OR -Y
+X OR Y
+-U
+U OR V OR X
+T OR -Y
+V
+T OR U OR -V OR X
+U OR Y
+U OR X
+T OR -V
+{}
+YES
